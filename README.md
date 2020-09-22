@@ -1,7 +1,7 @@
 # QOSF-Mentorship
 Solution of the task 2
 ## Task 2
-Implement a circuit that returns $\left|01\right>$ and $\left|10\right>$ with equal probability.
+Implement a circuit that returns $|01>$ and $|10>$ with equal probability.
 Requirements :
 -	The circuit should consist only of CNOTs, RXs and RYs. 
 -	Start from all parameters in parametric gates being equal to 0 or randomly chosen. 
