@@ -1,7 +1,7 @@
 # QOSF-Mentorship
 Solution of the task 2
 ## Task 2
-Implement a circuit that returns $|01>$ and $|10>$ with equal probability.
+Implement a circuit that returns |01> and |10> with equal probability.
 Requirements :
 -	The circuit should consist only of CNOTs, RXs and RYs. 
 -	Start from all parameters in parametric gates being equal to 0 or randomly chosen. 
@@ -11,10 +11,10 @@ Requirements :
 Compare the results for different numbers of measurements: 1, 10, 100, 1000. 
 
 Bonus question:
-How to make sure you produce state $\left|01\right> + \left|10\right>$ and not $\left|01\right> - \left|10\right>$?
+How to make sure you produce state |01⟩ + |10> and not |01> - |10>?
 
 (Actually for more careful readers, the “correct” version of this question is posted below:
-How to make sure you produce state  $\left|01\right> + \left|10\right>$  and not any other combination of $\left|01\right> + e^{i\phi}\left|10\right>$|01> + |10⟩ (for example $\left|01\right> - \left|10\right>$)?)
+How to make sure you produce state  |01⟩ + |10⟩  and not any other combination of |01> + exp(i\phi)|10> |01> + |10⟩ (for example $\left|01\right> - \left|10\right>$)?)
 
 
 ## Solution
